@@ -1,5 +1,4 @@
 # Global to Local: A Hierarchical Detection Algorithm for Hyperspectral Image Target Detection
-# Waiting for manuscript early access online!
 ----------
 ## Zhonghao Chen, Zhengtao Lu, Hongmin Gao, Yiyan Zhang, Danfeng Hong, Bing Zhang
 ----------
