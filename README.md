@@ -29,6 +29,6 @@ Please kindly cite the papers if this code is useful and helpful for your resear
   
   ## Contact Information
   ----------
-  Zhonghao Chen: chenzhonghao@hhu.edu.cn
+  Zhonghao Chen: chenzhonghao@hhu.edu.cn\
   Zhengtao Lu: luzhengtao@hhu.edu.cn
   
