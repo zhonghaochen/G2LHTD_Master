@@ -17,8 +17,8 @@ Here an example experiment is given by using **San Diego hyperspectral data**. D
 
 ## Citation
 ----------
-Please kindly cite the papers if this code is useful and helpful for your research.
-@ARTICLE{9968036,
+Please kindly cite the papers if this code is useful and helpful for your research.\
+@ARTICLE{9968036,\
   author={Chen, Zhonghao and Lu, Zhengtao and Gao, Hongmin and Zhang, Yiyan and Zhao, Jia and Hong, Danfeng and Zhang, Bing},\
   journal={IEEE Transactions on Geoscience and Remote Sensing}, \
   title={Global to Local: A Hierarchical Detection Algorithm for Hyperspectral Image Target Detection}, \
