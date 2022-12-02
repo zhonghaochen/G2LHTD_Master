@@ -18,7 +18,7 @@ If you encounter the bugs while using this code, please do not hesitate to conta
 ## Citation
 ----------
 Please kindly cite the papers if this code is useful and helpful for your research.\
-@ARTICLE{9968036,\
+@ARTICLE{chen2022G2LHTD,\
   author={Chen, Zhonghao and Lu, Zhengtao and Gao, Hongmin and Zhang, Yiyan and Zhao, Jia and Hong, Danfeng and Zhang, Bing},\
   journal={IEEE Transactions on Geoscience and Remote Sensing}, \
   title={Global to Local: A Hierarchical Detection Algorithm for Hyperspectral Image Target Detection}, \
